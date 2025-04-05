@@ -1,0 +1,56 @@
+
+
+.input-group {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.historyPassword {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.savePasswords{
+    list-style-type: none;
+}
+
+.input {
+    min-height: 60px;
+    max-width: 210px;
+    padding: 0 1rem;
+    color: black;
+    font-size: 15px;
+    border: 1px solid #5e4dcd;
+    border-radius: 6px 0 0 6px;
+    background-color: transparent;
+}
+
+#paswordText{
+    width: 90px;
+}
+
+.button--submit {
+    min-height: 60px;
+    padding: .5em 1em;
+    border: none;
+    border-radius: 0 6px 6px 0;
+    background-color: #5e4dcd;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color .3s ease-in-out;
+}
+
+.button--submit:hover {
+    background-color: #5e5dcd;
+}
+
+.input:focus,
+.input:focus-visible {
+    border-color: #3898EC;
+    outline: none;
+}
