@@ -12,4 +12,4 @@ This application helps you create strong passwords, edit them, and store them in
 
 -View Password History: View previously saved passwords to keep track of changes.
 
-git clone https://github.com/your-username/Password-Generator-Manager.git
+git clone https://github.com/Nimsch0/Password-Generator-Manager.git
